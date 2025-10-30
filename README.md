@@ -91,7 +91,7 @@ To fix any lint issues, use `npm run format` to automatically format all the cod
 - [Google Maps](https://developers.google.com/maps/documentation/javascript/overview): Display a custom map with the Google Maps JavaScript API.
 - [Material Desgin 3](https://m3.material.io): Material Design 3 [web components](https://github.com/material-components/material-web#readme).
 - [SvelteKit](https://kit.svelte.dev): Compiler framework to develop declarative reactive web apps with [TypeScript](https://www.typescriptlang.org).
-- [Vite](https://vitejs.dev): Build tool with a fast development experience for modern web projects.
+- [Vite](https://vite.dev): Build tool with a fast development experience for modern web projects.
 - [Tailwind](https://tailwindcss.com): CSS framework for design and styling.
 - [ESLint](https://eslint.org): Statically analyze code to quickly find problems.
 - [Prettier](https://prettier.io): Opinionated code formatter.
@@ -116,7 +116,6 @@ You can also discuss this sample on our [Discord server].
 
 [Solar API]: https://developers.google.com/maps/documentation/solar
 [API key]: https://developers.google.com/maps/documentation/solar/get-api-key
-
 [code of conduct]: ?tab=coc-ov-file#readme
 [contributing guide]: CONTRIBUTING
 [Deprecation Policy]: https://cloud.google.com/maps-platform/terms
